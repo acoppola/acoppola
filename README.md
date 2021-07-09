@@ -3,10 +3,10 @@
 ### Born in Italy, now living in Germany
 
 
-- 🔭 Worked at Electronic Arts
-- 🌱 I’m currently learning React/Spring Boot (started this month)
+- 🔭 Worked at Electronic Arts, Links MT, ProgettoAzienda, ComeTiVeste, Freelance
+- 🌱 I’m currently improving at Spring Boot & React
 - 💬 Ask me about Angular and Typescript
 - 📫 How to reach me: antoniocoppoladev|AT|gmail.com
-- ⚡ Fun fact: 3 years ago I never imagined that I could have end up in Germany, the only country that I tought I'd avoided because of their language (and here, started to learn a bit of German) 
+- ⚡ Hobbies: Football (US Lecce fan), playing FIFA, Astronomy 
 
 
