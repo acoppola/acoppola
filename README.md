@@ -3,7 +3,7 @@
 ### Born in Italy, now living in Germany
 
 
-- 🔭 I’m currently working on Electronic Arts
+- 🔭 Worked at Electronic Arts
 - 🌱 I’m currently learning React/Spring Boot (started this month)
 - 💬 Ask me about Angular and Typescript
 - 📫 How to reach me: antoniocoppoladev|AT|gmail.com
